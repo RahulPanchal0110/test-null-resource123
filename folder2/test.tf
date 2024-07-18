@@ -1,1 +1,1 @@
-test2
+resource "null_resource" "cluster6"{}
